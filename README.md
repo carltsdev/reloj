@@ -1,3 +1,3 @@
 # reloj
-cree una aplicacion de reloj digital en python
+creado una aplicacion de reloj digital en python
 que muestra la hora en una ventana
